@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Susana Baca -  two-time Latin Grammy Award </title>
+</head>
+<a href="https://www.youtube.com/watch?v=wDezBrhEBFk"> Encuentro en el Estudio</a>
+<body>
+Peruvian singer-songerwriter, ethnomusicologist, she has been a key figure in the Afro-Peruvian music.
+<img src="20BACA-jumbo.jpg" alt="Susana Baca" width="500" height="600">
+<ol>
+<li>1987-Poesía y Canto Negro</li>
+<li>1991-Vestida Vida<li>
+<li>1992-Canto Negro de las Americas!</li>
+<li>1997-Fuego y Agua</li>
+<li>2000-Eco de Sombras</li>
+<li>2001-Lamento Negro</li>
+</ol>
+</body>
+</html>
